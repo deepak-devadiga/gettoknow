@@ -1,0 +1,8 @@
+{
+  "name": "gettoknow",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "ff47c41c"
+}
